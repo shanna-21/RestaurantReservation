@@ -1,0 +1,18 @@
+RESPONSIBILITIES : 
+
+1. Kevin Alexander Andreas
+	1. Setup JDBC Connection
+	2. Designed and Normalized SQL Database
+	3. Package Main, Operations, SysConnection
+
+2. Shanna Carlynda Fernlie
+	1. Tidying of Program (60%)
+	2. Package Main, Tables, Repository
+	3. Input-Output testing
+	4. Pushed to Github
+
+3. Vincentius Axelle Tanoto
+	1. Formatting Outputs, Tidying of Program (40%)
+	2. Package Main, Tables, Repository
+	3. Input-Output testing
+	4. Pushed to Github
